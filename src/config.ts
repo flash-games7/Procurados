@@ -1,5 +1,6 @@
-import { Types } from "phaser"
-import { Boot } from "./scenes/Boot"
+import { Types } from "phaser";
+import { Boot } from "./scenes/Boot";
+import { Preloader } from "./scenes/Preloader";
 
 const config: Types.Core.GameConfig = {
     type: Phaser .AUTO,
