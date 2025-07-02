@@ -59,3 +59,92 @@ Habilidades Especiais (cada jogador escolhe uma):
 Fugitivo: Invisibilidade temporária, movimento furtivo, troca de disfarce.
 
 Caçador: Visão térmica (revela um disfarçado aleatório), sensor de movimento.
+
+PROCURADOS — O Jogo de Esconde-Esconde com Disfarces
+
+Resumo Rápido
+Jogadores: 2 a 4
+
+Duração: 15 a 20 minutos
+
+Gênero: Estratégia / Esconde-esconde / Dedução
+
+Plataforma: Presencial ou Digital com mapa temático
+
+Objetivo do Jogo
+Fugitivos: Permanecer escondidos até o tempo acabar.
+
+Caçador: Encontrar todos os Fugitivos antes do tempo ou das interações acabarem.
+
+REGRAS DO JOGO
+Fase 1 — Sorteio
+Um jogador é aleatoriamente sorteado como Caçador.
+
+Os demais serão Fugitivos.
+
+Fase 2 — Preparação (2 minutos)
+Fugitivos escolhem um local no mapa e um objeto para se disfarçar (ex: vaso, estante, caixa).
+
+Após os 2 minutos:
+
+Eles não podem mais se mover (exceto com habilidade especial).
+
+Podem mudar de disfarce durante a preparação, mas isso consome tempo.
+
+Fase 3 — Caçada (10 minutos)
+O Caçador entra no mapa.
+
+Ele tem:
+
+10 minutos para encontrar todos os Fugitivos.
+
+15 toques/interações com objetos.
+
+Cada toque revela se o objeto é um Fugitivo ou não.
+
+Condições de Vitória
+Caçador vence: Se encontrar todos os Fugitivos antes de esgotar o tempo ou interações.
+
+Fugitivos vencem: Se ao menos um deles permanecer escondido até o fim.
+
+PERSONAGENS E HABILIDADES ESPECIAIS
+Cada jogador pode escolher 1 habilidade especial, uma vez por partida.
+(Ativação: tecla ou comando específico. Recarga: não aplicável.)
+
+FUGITIVOS
+Nome	Habilidade Especial	Efeito	Risco
+Camaleão	Troca de Disfarce	Pode virar outro objeto uma vez	Breve ruído visual/sonoro
+Sombra	Movimento Furtivo	Move-se até 3 metros lentamente	Pode ser visto
+Fumaça	Invisibilidade Temporária	Some por 5 segundos	Impossível se mover durante
+Impostor	Objeto Falso	Cria um clone do objeto que controla	Não pode se mover depois
+
+CAÇADOR
+Nome	Habilidade Especial	Efeito	Limite
+Olho de Águia	Visão Térmica	Revela um Fugitivo aleatório no mapa (dura 3s)	1 uso
+Sentinela	Sensor de Movimento	Detecta qualquer movimento em um raio de 5m	2 usos
+Instinto	Intuição	Revela uma área do mapa com maior chance de Fugitivos	1 uso
+Scanner	Análise Rápida	Permite 3 interações extras	Uma vez por partida
+
+ESTRATÉGIAS RECOMENDADAS
+Fugitivos:
+Escolha objetos comuns e simétricos com o ambiente.
+
+Não mude de disfarce muitas vezes.
+
+Use sua habilidade especial apenas quando realmente em risco.
+
+Caçador:
+Preste atenção a objetos com pequenas irregularidades.
+
+Use habilidades no meio da partida para otimizar buscas.
+
+Marque mentalmente locais já verificados.
+
+VARIAÇÕES DE MAPAS (para tornar mais dinâmico)
+Armazém Abandonado – Caixas, empilhadeiras, estantes.
+
+Museu Antigo – Estátuas, bancos, vasos.
+
+Parque Urbano – Árvores, bancos, lixeiras.
+
+Escola Deserta – Cadeiras, quadros, mochilas.
