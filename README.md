@@ -148,3 +148,36 @@ Museu Antigo – Estátuas, bancos, vasos.
 Parque Urbano – Árvores, bancos, lixeiras.
 
 Escola Deserta – Cadeiras, quadros, mochilas.
+
+FLUXOGRAMA DE CENAS
+1. INÍCIO DO JOGO
+        ↓
+2. SORTEIO DO CAÇADOR
+    - 1 jogador vira o Caçador
+    - Demais são Fugitivos
+        ↓
+3. FASE DE PREPARAÇÃO (2 minutos)
+    - Fugitivos escolhem local e objeto para se disfarçar
+    - Podem trocar de disfarce (com risco)
+    - Após tempo: ficam imóveis (exceto com habilidade)
+        ↓
+4. INÍCIO DA CAÇADA (10 minutos)
+    - Caçador entra no mapa
+    - Possui 15 toques/interações
+    - Pode usar 1 habilidade especial
+        ↓
+5. CAÇADA EM ANDAMENTO
+    ├──► Caçador interage com objetos suspeitos
+    │       └── Se acerta: Fugitivo é eliminado
+    │       └── Se erra: interação é consumida
+    ├──► Fugitivos podem usar habilidade especial (1x)
+    │       └── Movimento furtivo, invisibilidade, troca de disfarce, etc.
+    └──► Caçador pode usar habilidade para ajudar (Visão térmica, etc.)
+        ↓
+6. CONDIÇÃO DE VITÓRIA
+    ├──► Se TODOS Fugitivos forem encontrados a tempo → Vitória do Caçador
+    └──► Se AO MENOS UM Fugitivo resistir até o fim → Vitória dos Fugitivos
+        ↓
+7. FIM DA PARTIDA
+    - Pontuação e destaque para jogadas estratégicas (opcional)
+    - Troca de papéis para nova rodada (se desejado)
