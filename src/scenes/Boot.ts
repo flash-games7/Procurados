@@ -14,8 +14,8 @@ export class Boot extends Scene {
       .image(400, 225, "banana")
       .setInteractive()
       .on("pointerdown", () => {
-      this.scene.stop();
-      this.scene.start("Preloader");
+        this.scene.stop();
+        this.scene.start("Preloader");
       });
   }
 }

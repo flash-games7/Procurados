@@ -1,13 +1,11 @@
 import { Scene } from "phaser";
 
 export class Preloader extends Scene {
-  constructor() { }
+  constructor() {
     super({ key: "Preloader" });
   }
 
   create() {
-    this game.scene.start("Map");
+    this.scene.start("Phase0");
   }
-
-
-
+}
