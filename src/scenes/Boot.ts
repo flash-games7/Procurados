@@ -6,12 +6,12 @@ export class Boot extends Scene {
   }
 
   preload() {
-    this.load.image("banana", "assets/banana.png");
+    this.load.image("corridor", "assets/corridor.png");
   }
 
   create() {
     this.add
-      .image(400, 225, "banana")
+      .image(400, 225, "corridor")
       .setInteractive()
       .on("pointerdown", () => {
         this.scene.stop();
